@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* Opcional: Garante que o fundo escuro cubra tudo */
+body {
+  background-color: #0f172a;
+  margin: 0;
+  padding: 0;
+}
